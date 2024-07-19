@@ -1,6 +1,8 @@
 # Centros_de_salud_Chile
 Displays health centers in the country based on Gov Data
 
+![image](https://github.com/user-attachments/assets/bcc22b2f-258b-491f-9dd3-dbf7fb1b6f1b)
+
 # 1. Data Source: 
 https://datos.gob.cl
 
